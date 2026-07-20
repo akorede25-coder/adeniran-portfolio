@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import profileImage from "../assets/adeniran-photo.JPG"
+import profileImage from "../assets/adeniran-photo.jpg"
 
 function Hero() {
   return (
